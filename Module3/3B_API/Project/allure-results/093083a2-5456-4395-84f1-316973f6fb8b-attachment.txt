@@ -1,0 +1,15 @@
+{
+  "email": "elly@example.com",
+  "attributes": {
+    "FNAME": "Elly"
+  },
+  "emailBlacklisted": false,
+  "smsBlacklisted": false,
+  "listIds": [
+    21
+  ],
+  "updateEnabled": false,
+  "smtpBlacklistSender": [
+    "info@sendinblue.com"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "P11",
+  "name": "IPhone 11",
+  "url": "http://mydomain.com/product/electronics/product1",
+  "imageUrl": "http://mydomain.com/product-absoulte-url/img.jpeg",
+  "sku": "SKU523452235",
+  "price": -48445562.575949855,
+  "categories": [
+    "id",
+    "v"
+  ],
+  "parentId": "minim amet",
+  "metaInfo": {
+    "description": "Shoes for sports",
+    "brand": "addidas"
+  },
+  "updateEnabled": false
+}

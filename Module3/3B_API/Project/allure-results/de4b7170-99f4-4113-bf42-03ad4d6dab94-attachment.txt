@@ -1,0 +1,19 @@
+{
+    "attributes": {
+        "EMAIL": "newemail@domain.com",
+        "FNAME": "Ellie",
+        "LNAME": "Roger"
+    },
+    "emailBlacklisted": false,
+    "smsBlacklisted": true,
+    "listIds": [
+        65
+    ],
+    "unlinkListIds": [
+        36
+    ],
+    "smtpBlacklistSender": [
+        "2tD@yHGSlOErIdPjXSRRCUPBPdlcwl.lkbz",
+        "IsBKLQFo@XuqjOjVDBfCmvxFMDtrmU.fogq"
+    ]
+}

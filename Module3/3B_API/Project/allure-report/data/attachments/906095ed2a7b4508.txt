@@ -1,0 +1,89 @@
+{
+  "orders": [
+    {
+      "id": "14",
+      "createdAt": "2021-07-29T20:59:23.383Z",
+      "updatedAt": "2021-07-30T10:59:23.383Z",
+      "status": "completed",
+      "amount": 308.42,
+      "products": [
+        {
+          "value": ""
+        },
+        {
+          "value": ""
+        }
+      ],
+      "email": "example@sendinblue.com",
+      "billing": {
+        "address": {
+          "value": ""
+        },
+        "city": {
+          "value": ""
+        },
+        "countryCode": {
+          "value": ""
+        },
+        "phone": {
+          "value": ""
+        },
+        "postCode": {
+          "value": ""
+        },
+        "paymentMethod": {
+          "value": ""
+        },
+        "region": {
+          "value": ""
+        }
+      },
+      "coupons": [
+        "EASTER15OFF"
+      ]
+    },
+    {
+      "id": "14",
+      "createdAt": "2021-07-29T20:59:23.383Z",
+      "updatedAt": "2021-07-30T10:59:23.383Z",
+      "status": "completed",
+      "amount": 308.42,
+      "products": [
+        {
+          "value": ""
+        },
+        {
+          "value": ""
+        }
+      ],
+      "email": "example@sendinblue.com",
+      "billing": {
+        "address": {
+          "value": ""
+        },
+        "city": {
+          "value": ""
+        },
+        "countryCode": {
+          "value": ""
+        },
+        "phone": {
+          "value": ""
+        },
+        "postCode": {
+          "value": ""
+        },
+        "paymentMethod": {
+          "value": ""
+        },
+        "region": {
+          "value": ""
+        }
+      },
+      "coupons": [
+        "EASTER15OFF"
+      ]
+    }
+  ],
+  "notifyUrl": "https://en.wikipedia.org/wiki/Webhook"
+}

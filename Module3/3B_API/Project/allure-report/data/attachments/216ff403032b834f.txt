@@ -1,0 +1,38 @@
+{
+    "sender": {
+        "name": "Mary from MyShop",
+        "email": "no-reply@getnada.com"
+    },
+    "to": [
+        {
+            "email": "minnie@getnada.com",
+            "name": "Minnie"
+        }
+    ],
+    "bcc": [
+        {
+            "email": "minnie@tafmail.com",
+            "name": "Minnie Tafmail"
+        },
+        {
+            "email": "Minnie@getairmail.com",
+            "name": "Minnie GetairMail"
+        }
+    ],
+    "cc": [
+        {
+            "email": "minnie@vomoto.com",
+            "name": "Minnie"
+        }
+    ],
+    "htmlContent": "<!DOCTYPE html> <html> <body> <h1>This is sample HTML</h1> </html>",
+    "subject": "Login Email confirmation",
+    "replyTo": {
+        "email": "ann6533@example.com",
+        "name": "Ann"
+    },
+    "tags": [
+        "tag1",
+        "tag2"
+    ]
+}

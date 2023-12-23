@@ -1,0 +1,34 @@
+{
+  "id": "#109",
+  "status": "completed",
+  "amount": 160.96,
+  "createdAt": "2023-01-10T03:20:04Z",
+  "updatedAt": "2023-01-10T03:20:04Z",
+  "products": [
+    {
+      "productId": "41498620592335",
+      "quantity": 2,
+      "price":200.89
+    },
+    {
+      "productId": "41498620559567",
+      "quantity": 2,
+      "variantId": "76337-dvvkt",
+      "price":400
+    }
+  ],
+  "email": "patricia@tremblay.net",
+  "billing": {
+    "address": "43411 Braun Circle",
+    "city": "Gerrybury",
+    "countryCode": "GE",
+    "phone": "2901692763956",
+    "postcode": "07366-7886",
+    "paymentMethod": "Pay Pal",
+    "region": "Florida"
+  },
+  "coupons": [
+    "WINTER",
+    "15OFF"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "Date": "Sat, 23 Dec 2023 09:53:20 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "50",
+    "Connection": "keep-alive",
+    "sib-request-id": "89bf33a6-d008-91bd-a3fd-1c3606cd9b5a",
+    "access-control-allow-origin": "*",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "PUT, POST, GET, DELETE, PATCH, OPTIONS",
+    "x-envoy-upstream-service-time": "1",
+    "x-sib-server": "BREVO-srv-pr-online-rancher-worker-68",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1",
+    "CF-Cache-Status": "DYNAMIC",
+    "Set-Cookie": "__cf_bm=0p.sYPFAvNMvcsMnJ1hzGtJG9RSIEg1S2vegSduus2E-1703325200-1-AZ6Mp90sjfeLfTOMHCUL5eqOk4QcuJS+EKy4plWG3/3WZVF5sKaWxWqbQFuWVhKVNSj/yssQGSkPmIdsZ1ZryGA=; path=/; expires=Sat, 23-Dec-23 10:23:20 GMT; domain=.brevo.com; HttpOnly; Secure; SameSite=None",
+    "Server": "cloudflare",
+    "CF-RAY": "839fb7830a78534d-LOS"
+}

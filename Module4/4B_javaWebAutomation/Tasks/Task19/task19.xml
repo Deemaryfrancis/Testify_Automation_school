@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Task19">
+    <test name="grouping" >
+        <groups>
+            <run>
+                <include name="homePage"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="com.demoqa.Elements"/>
+            <class name="com.demoqa.Forms"/>
+            <class name="com.demoqa.Interactions"/>
+            <class name="com.demoqa.Widgets"/>
+            <class name="pomTest.SauceCartTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,6 @@
+{
+  "id": "4ym78sfr8@VaAMB.xgn",
+  "name": "Electronics",
+  "url": "http://mydomain.com/category/electronics",
+  "updateEnabled": false
+}

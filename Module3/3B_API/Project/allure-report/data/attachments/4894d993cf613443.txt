@@ -1,0 +1,8 @@
+{
+    "events": [
+        "delivered"
+    ],
+    "url": "https://webhook.site/5ebc5d36-217f-4989-81fd-5f02cbb49c6d",
+    "description": "test for SMS",
+    "type": "marketing"
+}

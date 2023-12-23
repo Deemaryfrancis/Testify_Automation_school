@@ -1,0 +1,13 @@
+{
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+    "api-key": "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",
+    "User-Agent": "PostmanRuntime/7.24.1",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "0053daa7-f2b1-494b-8ec0-105d937154af",
+    "Host": "api.brevo.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": 117,
+    "Cookie": "__cf_bm=hQQCK_JD2Twtlc0Kwad2sHRk6Kq_fxsxRBprHqZIngY-1703325386-1-AQjq7ABuSb7yFFj7qB7A1EtlcdVWIIK8RDwYWLQo+ZER/GdqlcpgTxRFN7chkgztCdy1aMPJFtMlKgol7tl/N9E="
+}

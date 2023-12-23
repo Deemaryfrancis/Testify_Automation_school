@@ -1,0 +1,8 @@
+{
+    "contactNumbers": [
+        "919808240608"
+    ],
+    "senderNumber": "919900751564",
+    "xtext": "saranghe",
+    "templateId": 744919760309407
+}

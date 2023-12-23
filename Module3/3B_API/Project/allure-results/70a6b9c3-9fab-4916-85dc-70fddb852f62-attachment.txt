@@ -1,0 +1,39 @@
+{
+  "tag": "Newsletter",
+  "sender": {
+    "name": "Meel Deals",
+    "email": "newsletter@myshop.com"
+  },
+  "name": "Newsletter - May 2023",
+  "htmlContent": "<!DOCTYPE html> <html> <body> <h1>Hot summer deals have just dropped</h1> <p>Hit the link below to see what's new!</p> </body> </html>",
+  //"htmlUrl": "https://html.domain.com",
+  //"scheduledAt": "ipsum",
+  "subject": "Discover the New Collection !",
+  "replyTo": "support@myshop.com",
+  "toField": "{FNAME} {LNAME}",
+  "recipients": {
+    "exclusionListIds": [1],
+    "listIds": [
+        2
+    ]
+  },
+  "attachmentUrl": "https://attachment.domain.com",
+  "inlineImageActivation": true,
+  "mirrorActive": true,
+  "recurring": true,
+  //"footer": "[DEFAULT_FOOTER]",
+  //"header": "[DEFAULT_HEADER]",
+  "utmCampaign": "NL_05_2017",
+  "params": {
+  },
+  //"sendAtBestTime": true,
+  //"abTesting": true,
+  "subjectA": "Discover the New Collection!",
+  "subjectB": "Want to discover the New Collection?",
+  "splitRule": 50,
+  "winnerCriteria": "open",
+  "winnerDelay": 50,
+  "ipWarmupEnable": true,
+  "initialQuota": 3000,
+  "increaseRate": 70
+}

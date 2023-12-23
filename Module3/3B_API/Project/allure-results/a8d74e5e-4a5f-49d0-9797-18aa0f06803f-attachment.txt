@@ -1,0 +1,5 @@
+{
+  "startDate": "2023-05-15",
+  "endDate": "2023-05-20",
+  "contactEmail": "minnie@getnada.com"
+}

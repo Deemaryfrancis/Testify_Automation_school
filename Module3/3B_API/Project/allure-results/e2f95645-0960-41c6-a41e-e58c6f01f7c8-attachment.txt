@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "id": "cI5vQG@akAvYs.aakp",
+      "name": "Electronics",
+      "url": "http://mydomain.com/category/electronics"
+    },
+    {
+      "id": "lw76jTxBp@ZL.vlo",
+      "name": "Electronics",
+      "url": "http://mydomain.com/category/electronics"
+    }
+  ],
+  "updateEnabled": true
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "newman": "^6.0.0",
+    "newman-reporter-allure": "^2.10.0"
+  }
+}

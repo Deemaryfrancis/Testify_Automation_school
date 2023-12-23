@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "P11",
+      "name": "Iphone 11",
+      "url": "http://mydomain.com/product/electronics/product1",
+      "imageUrl": "http://mydomain.com/product-absoulte-url/img.jpeg",
+      "sku": "SKU5234522331",
+      "price": 9965553.347645134,
+      "categories": [
+        {
+          "value": ""
+        },
+        {
+          "value": ""
+        }
+      ],
+      "parentId": "GH56214",
+      "metaInfo": {
+        "description": "Shoes for sports",
+        "brand": "adidas"
+      }
+    },
+    {
+      "id": "P11",
+      "name": "Iphone 11",
+      "url": "http://mydomain.com/product/electronics/product1",
+      "imageUrl": "http://mydomain.com/product-absoulte-url/img.jpeg",
+      "sku": "SKU523452235",
+      "price": -2971697.3335331976,
+      "categories": [
+        {
+          "value": ""
+        },
+        {
+          "value": ""
+        }
+      ],
+      "parentId": "HG3561",
+      "metaInfo": {
+        "description": "Shoes for sports",
+        "brand": "addidas"
+      }
+    }
+  ],
+  "updateEnabled": false
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="demoqa">
+    <test name="Task 17" >
+        <classes>
+            <class name="com.demoqa.Elements"/>
+            <class name="com.demoqa.Forms"/>
+            <class name="com.demoqa.Widgets"/>
+            <class name="com.demoqa.Interactions"/>
+        </classes>
+    </test>
+</suite>
